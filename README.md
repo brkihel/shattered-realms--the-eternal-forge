@@ -66,8 +66,8 @@ Em algum ponto do desenvolvimento deste projeto irei criar um servidor do discor
 
 Se tiver dúvidas ou quiser acompanhar o progresso do projeto, entre em contato:
 
-- **Email:** [seuemail@email.com](mailto\:diegomacedo04@gmail.com)
-- **LinkedIn:** [Seu Perfil LinkedIn](https://www.linkedin.com/in/diegomacedo04/)
+- **Email:** [diegomacedo04@gmail.com](mailto\:diegomacedo04@gmail.com)
+- **LinkedIn:** [\[Perfil do Linkedin\](https://www.linkedin.com/in/diegomacedo04/)](https://www.linkedin.com/in/diegomacedo04/)
 
 ---
 
